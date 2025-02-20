@@ -1,1 +1,1 @@
-# projeto-integrado-tripleten-sprint-6
+# TripleTen projects
